@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* #ff0022   #ffffff */
+
+.startbg{
+    background: linear-gradient(90deg, #ff4777, #ff1149);
+}
